@@ -1,0 +1,3 @@
+# Shopbymenu
+Magento Shopbymenu extension
+ 
